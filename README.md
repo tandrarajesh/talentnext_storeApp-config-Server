@@ -1,0 +1,1 @@
+# talentnext_storeApp-config-Server
